@@ -1,2 +1,2 @@
-# JavaScript_Project
-Mini project of javascript for understanding their concept.
+# JavaScript_code_practice
+sample code of javascript for understanding their concept.
